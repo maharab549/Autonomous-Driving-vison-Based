@@ -1,0 +1,4 @@
+/home/jetson/Desktop/Yolov5_Tensorrt_Win10-master/build/CMakeFiles/rebuild_cache.dir
+/home/jetson/Desktop/Yolov5_Tensorrt_Win10-master/build/CMakeFiles/edit_cache.dir
+/home/jetson/Desktop/Yolov5_Tensorrt_Win10-master/build/CMakeFiles/myplugins.dir
+/home/jetson/Desktop/Yolov5_Tensorrt_Win10-master/build/CMakeFiles/yolov5.dir
