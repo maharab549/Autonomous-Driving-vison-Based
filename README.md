@@ -2250,7 +2250,7 @@ Run the test suite using the following command:
 
 ## 🎗 License
 
-This project is protected under the [SELECT-A-LICENSE](https://choosealicense.com/licenses) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
+This project is protected under the [SELECT-A-LICENSE](https://opensource.org/license/mit) License. For more details, refer to the [LICENSE](https://opensource.org/license/mit) file.
 
 ---
 
