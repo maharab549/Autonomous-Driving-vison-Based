@@ -2199,9 +2199,8 @@ Run the test suite using the following command:
 ---
 ## 📌 Project Roadmap
 
-- [X] **`Task 1`**: <strike>Implement feature one.</strike>
-- [ ] **`Task 2`**: Implement feature two.
-- [ ] **`Task 3`**: Implement feature three.
+- [X] **`Task 1`**: Change you yolov5 traffic sign model directrory Code line: 800
+- [ ] **`Task 2`**: Change your lane segmentation model directrory Code line: 801
 
 ---
 
@@ -2250,7 +2249,7 @@ Run the test suite using the following command:
 
 ## 🎗 License
 
-This project is protected under the [SELECT-A-LICENSE](https://opensource.org/license/mit) License. For more details, refer to the [LICENSE](https://opensource.org/license/mit) file.
+This project is protected under the [MIT](https://opensource.org/license/mit) License. For more details, refer to the [MIT](https://opensource.org/license/mit) file.
 
 ---
 
